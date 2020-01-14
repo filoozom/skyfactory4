@@ -33,6 +33,6 @@ docker run -d \
 	-e MAX_RAM=2048M \
 	-v $(pwd)/world:/minecraft/world \
 	-v $(pwd)/prestige:/minecraft/prestige \
-	filoozom:skyfactory4
+	filoozom/skyfactory4
 ```
 
